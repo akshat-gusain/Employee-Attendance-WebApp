@@ -1,0 +1,50 @@
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.deps.json
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.runtimeconfig.json
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\appsettings.Development.json
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\appsettings.json
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.staticwebassets.runtime.json
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.exe
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Infrastructure.deps.json
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Infrastructure.dll
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Infrastructure.pdb
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Application.dll
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Core.dll
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.dll
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Application.pdb
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Core.pdb
+D:\DownL\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.pdb
+D:\DownL\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.csproj.AssemblyReference.cache
+D:\DownL\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DownL\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.AssemblyInfoInputs.cache
+D:\DownL\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.AssemblyInfo.cs
+D:\DownL\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DownL\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\Employee.DF49D0E5.Up2Date
+D:\DownL\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.dll
+D:\DownL\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\refint\EmployeeAttendance.Infrastructure.dll
+D:\DownL\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.pdb
+D:\DownL\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\ref\EmployeeAttendance.Infrastructure.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\appsettings.Development.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\appsettings.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.deps.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.runtimeconfig.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.staticwebassets.runtime.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.exe
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Infrastructure.deps.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Infrastructure.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Infrastructure.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Application.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Core.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Application.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendance.Core.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\bin\Debug\net8.0\EmployeeAttendanceSystem.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.csproj.AssemblyReference.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.AssemblyInfoInputs.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.AssemblyInfo.cs
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\Employee.DF49D0E5.Up2Date
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\refint\EmployeeAttendance.Infrastructure.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\EmployeeAttendance.Infrastructure.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Infrastructure\obj\Debug\net8.0\ref\EmployeeAttendance.Infrastructure.dll
