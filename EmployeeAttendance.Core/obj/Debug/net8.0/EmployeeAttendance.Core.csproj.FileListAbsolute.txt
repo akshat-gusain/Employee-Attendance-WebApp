@@ -1,0 +1,42 @@
+D:\DownL\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.deps.json
+D:\DownL\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.runtimeconfig.json
+D:\DownL\EmployeeAttendance.Core\bin\Debug\net8.0\appsettings.Development.json
+D:\DownL\EmployeeAttendance.Core\bin\Debug\net8.0\appsettings.json
+D:\DownL\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.staticwebassets.runtime.json
+D:\DownL\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.exe
+D:\DownL\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendance.Core.deps.json
+D:\DownL\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendance.Core.dll
+D:\DownL\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendance.Core.pdb
+D:\DownL\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.dll
+D:\DownL\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.pdb
+D:\DownL\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.csproj.AssemblyReference.cache
+D:\DownL\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DownL\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.AssemblyInfoInputs.cache
+D:\DownL\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.AssemblyInfo.cs
+D:\DownL\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.csproj.CoreCompileInputs.cache
+D:\DownL\EmployeeAttendance.Core\obj\Debug\net8.0\Employee.672B89F4.Up2Date
+D:\DownL\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.dll
+D:\DownL\EmployeeAttendance.Core\obj\Debug\net8.0\refint\EmployeeAttendance.Core.dll
+D:\DownL\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.pdb
+D:\DownL\EmployeeAttendance.Core\obj\Debug\net8.0\ref\EmployeeAttendance.Core.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\bin\Debug\net8.0\appsettings.Development.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\bin\Debug\net8.0\appsettings.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.deps.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.runtimeconfig.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.staticwebassets.runtime.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.exe
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendance.Core.deps.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendance.Core.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendance.Core.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\bin\Debug\net8.0\EmployeeAttendanceSystem.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.csproj.AssemblyReference.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.AssemblyInfoInputs.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.AssemblyInfo.cs
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.csproj.CoreCompileInputs.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\obj\Debug\net8.0\Employee.672B89F4.Up2Date
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\obj\Debug\net8.0\refint\EmployeeAttendance.Core.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\obj\Debug\net8.0\EmployeeAttendance.Core.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.Core\obj\Debug\net8.0\ref\EmployeeAttendance.Core.dll
