@@ -1,0 +1,186 @@
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.deps.json
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.runtimeconfig.json
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.staticwebassets.runtime.json
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.exe
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\appsettings.Development.json
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\appsettings.json
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.staticwebassets.runtime.json
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.exe
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.deps.json
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.runtimeconfig.json
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.pdb
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Azure.Core.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Azure.Identity.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EPPlus.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.ClientModel.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Application.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Core.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Infrastructure.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.dll
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Application.pdb
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Infrastructure.pdb
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Core.pdb
+D:\DownL\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.pdb
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.csproj.AssemblyReference.cache
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.AssemblyInfoInputs.cache
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.AssemblyInfo.cs
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.csproj.CoreCompileInputs.cache
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.MvcApplicationPartsAssemblyInfo.cs
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.RazorAssemblyInfo.cache
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.RazorAssemblyInfo.cs
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets.build.json
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets.development.json
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeAttendance.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeAttendance.WebUI.props
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeAttendance.WebUI.props
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeAttendance.WebUI.props
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\scopedcss\bundle\EmployeeAttendance.WebUI.styles.css
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\scopedcss\projectbundle\EmployeeAttendance.WebUI.bundle.scp.css
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\Employee.DB4E5656.Up2Date
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.dll
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\refint\EmployeeAttendance.WebUI.dll
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.pdb
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.genruntimeconfig.cache
+D:\DownL\EmployeeAttendance.WebUI\obj\Debug\net8.0\ref\EmployeeAttendance.WebUI.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\appsettings.Development.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\appsettings.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.deps.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.runtimeconfig.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.staticwebassets.runtime.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.exe
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.staticwebassets.runtime.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.exe
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.deps.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.runtimeconfig.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.WebUI.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Azure.Core.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Azure.Identity.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EPPlus.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.ClientModel.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Application.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Core.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Infrastructure.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Application.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Infrastructure.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendance.Core.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\bin\Debug\net8.0\EmployeeAttendanceSystem.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.csproj.AssemblyReference.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.AssemblyInfoInputs.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.AssemblyInfo.cs
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.csproj.CoreCompileInputs.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.MvcApplicationPartsAssemblyInfo.cs
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.RazorAssemblyInfo.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.RazorAssemblyInfo.cs
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets.build.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets.development.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeAttendance.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeAttendance.WebUI.props
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeAttendance.WebUI.props
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeAttendance.WebUI.props
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\scopedcss\bundle\EmployeeAttendance.WebUI.styles.css
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\scopedcss\projectbundle\EmployeeAttendance.WebUI.bundle.scp.css
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\Employee.DB4E5656.Up2Date
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\refint\EmployeeAttendance.WebUI.dll
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.pdb
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\EmployeeAttendance.WebUI.genruntimeconfig.cache
+D:\DownL\Dotnet Projects\Employee Attendance WebApp\EmployeeAttendance.WebUI\obj\Debug\net8.0\ref\EmployeeAttendance.WebUI.dll

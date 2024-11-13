@@ -1,0 +1,181 @@
+﻿@model IEnumerable<EmployeeAttendance.Application.DTOs.EmpDTO>
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        .content {
+            flex: 1;
+            padding-bottom: 70px;
+        }
+
+        .footer {
+            background-color: #f8f9fa;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+
+        .export-btn {
+            position: fixed;
+            bottom: 40px;
+            right: 20px;
+            z-index: 1000;
+        }
+
+        #exportSuccessMessage {
+            display: none;
+            position: fixed;
+            top: 20px; 
+            left: 50%;
+            transform: translateX(-50%); 
+            z-index: 1000;
+            width: 300px; 
+            text-align: center; 
+        }
+
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>@ViewData["Title"]</h1>
+
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success" id="successMessage">
+                @TempData["SuccessMessage"]
+            </div>
+        }
+
+        <div class="search-container" style="position: relative; margin-bottom: 20px;">
+            <input type="text" id="searchInput" class="form-control" placeholder="Type to search..." oninput="highlightText()" style="position: absolute; top: 0; right: 0; width: 200px;">
+        </div>
+
+        <p style="margin-top: 20px;">
+            <a asp-controller="Employee" asp-action="Create" class="btn btn-primary">Add New Employee</a>
+        </p>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Employee Code</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Date of Birth</th>
+                    <th>PAN</th>
+                    <th>Adhaar</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var employee in Model)
+                {
+                    <tr>
+                        <td>@employee.EmployeeCode</td>
+                        <td>@employee.FirstName</td>
+                        <td>@employee.LastName</td>
+                        <td>@employee.DOB.ToShortDateString()</td>
+                        <td>@employee.PAN</td>
+                        <td>@employee.Adhaar</td>
+                        <td>
+                            <a asp-controller="Employee" asp-action="Edit" asp-route-employeeId="@employee.EmployeeId" class="btn btn-primary">Edit</a>
+                            <a asp-controller="Employee" asp-action="Delete" asp-route-employeeId="@employee.EmployeeId" class="btn btn-danger">Delete</a>
+                            <a asp-controller="Attendance" asp-action="EmployeeAttendance" asp-route-employeeId="@employee.EmployeeId" class="btn btn-secondary">Attendance</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <a asp-controller="Employee" asp-action="ExportToExcel" id="exportBtn" class="btn btn-success export-btn">Export to Excel</a>
+    </div>
+
+    <div class="alert alert-success" id="exportSuccessMessage" style="display:none;">
+    Export started successfully!
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Your Company. All rights reserved.</p>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+       
+        setTimeout(function () {
+            var successMessage = document.getElementById("successMessage");
+            if (successMessage) {
+                successMessage.style.transition = "opacity 0.5s";
+                successMessage.style.opacity = "0";
+                setTimeout(function () {
+                    successMessage.style.display = "none";
+                }, 500);
+            }
+        }, 3000);
+
+         document.getElementById("exportBtn").addEventListener("click", function () {
+                var exportMessage = document.getElementById("exportSuccessMessage");
+                exportMessage.style.display = "block";
+
+                setTimeout(function () {
+                    exportMessage.style.transition = "opacity 0.5s";
+                    exportMessage.style.opacity = "0";
+                    setTimeout(function () {
+                        exportMessage.style.display = "none";
+                        exportMessage.style.opacity = "1"; 
+                    }, 500);
+                }, 3000);
+            });
+
+        function highlightText() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const rows = document.querySelectorAll('.table tbody tr');
+
+            rows.forEach(row => {
+                const cells = row.getElementsByTagName('td');
+                let foundMatch = false;
+
+                for (let cell of cells) {
+                    cell.style.backgroundColor = '';
+                    if (cell.textContent.toLowerCase().includes(searchTerm) && searchTerm) {
+                        cell.style.backgroundColor = 'yellow';
+                        foundMatch = true;
+                    }
+                }
+
+                if (foundMatch) {
+                    row.style.display = '';
+                } else {
+                    row.style.display = 'none';
+                }
+            });
+
+            if (searchTerm === '') {
+                rows.forEach(row => {
+                    row.style.display = '';
+                    const cells = row.getElementsByTagName('td');
+                    for (let cell of cells) {
+                        cell.style.backgroundColor = '';
+                    }
+                });
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+﻿@model EmployeeAttendance.Application.DTOs.EmpAttendanceDTO
+
+@{
+    ViewData["Title"] = "Edit Attendance";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-controller="Attendance" asp-action="EditAttendance" method="post">
+    <input type="hidden" name="EmployeeId" value="@Model.EmployeeId" />
+    <div class="form-group mb-3">
+        <label for="FirstName">First Name</label>
+        <input type="text" id="FirstName" name="FirstName" class="form-control" value="@Model.FirstName" readonly /> 
+    </div>
+    <div class="form-group mb-3">
+        <label for="AttendanceDate">Attendance Date</label>
+        <input type="date" name="AttendanceDate" class="form-control"
+               value="@Model.AttendanceDate.ToString("yyyy-MM-dd")" readonly />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="Status">Status</label>
+        <select name="Status" class="form-control" required>
+            <option value="">Select Status</option>
+            <option value="Present">Present</option>
+            <option value="Absent">Absent</option>
+            <option value="HalfDayLeave">Half Day Leave</option>
+            <option value="FullDayLeave">Full Day Leave</option>
+            <option value="DayOff">Day Off</option>
+            <option value="Holiday">Holiday</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Update Attendance</button>
+</form>
